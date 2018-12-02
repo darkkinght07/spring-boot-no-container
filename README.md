@@ -1,0 +1,1 @@
+The goal is to create a working example of a web app with spring boot and no servlet container.
